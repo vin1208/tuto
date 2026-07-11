@@ -1,0 +1,7 @@
+git checkout -b tuto 
+cd tuto 
+git checkout -b tuto
+git push -u origin tuto
+git add .
+git commit -m "first py file"  
+git push
